@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 152a02745c4b9d04a8e132f214dc9684
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Runner: {instanceID: 0}
+  - Object: {instanceID: 0}
+  - _whiteBallPrefab: {fileID: 5245530786093007199, guid: 55aea16bfe78b3b4f8f46750ecdcfad0, type: 3}
+  - _ActivePlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
